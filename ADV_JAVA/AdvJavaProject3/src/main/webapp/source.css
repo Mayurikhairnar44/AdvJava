@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1{
+	color: red;
+}
+h2{
+	color:#ff80c0;
+}
+div{
+	color:#80ffff;
+	border:red 2px solid;
+}
